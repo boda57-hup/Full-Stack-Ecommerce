@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import { ShopContext } from '../Contixt/shopContext'
+import { ShopContext } from '../Contixt/ShopContext'
 import Title from './Title';
 import ProductItem from './ProductItem';
 
